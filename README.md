@@ -17,9 +17,9 @@ Welcome to my GitHub! I'm currently exploring the world of mechanical systems, C
 ---
 
 ## 🌐 Web Presence  
-- [LinkedIn](https://www.linkedin.com/in/rukminimishra)  
-- [GrabCAD](https://grabcad.com/rukminimishra)  
-- [Instagram](https://instagram.com/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/rukmini2008)  
+- [GrabCAD](https://grabcad.com/rukmini mishra-1)  
+- [Instagram](https://instagram.com/rukminimishra90)
 
 ---
 
