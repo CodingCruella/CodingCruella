@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm currently exploring the world of mechanical systems, C
 ## 🌐 Web Presence  
 - [LinkedIn](https://www.linkedin.com/in/rukminimishra)  
 - [GrabCAD](https://grabcad.com/rukminimishra)  
-- [Instagram](https://instagram.com/yourprofile) *(if applicable)*  
+- [Instagram](https://instagram.com/yourprofile)
 
 ---
 
@@ -40,20 +40,18 @@ Welcome to my GitHub! I'm currently exploring the world of mechanical systems, C
 
 ## 📚 Education  
 **Diploma in Mechanical Engineering**  
-Govt. Polytechnic College, Nagpur  
-*(Expected Completion: 2025)*
+Govt. Polytechnic College
 
 ---
 
 ## 🏆 Certifications  
 - **TCS Digital Learning Program**  
 - **Tata ESG Virtual Experience Program**  
-- **Programming with Python (NPTEL)** *(optional)*  
 
 ---
 
 ## 📬 Contact  
-- **Email:** rukminimishra2003@gmail.com  
+- **Email:** rukminimishra2008@gmail.com  
 - **Location:** Nagpur, Maharashtra, India  
 
 ---
