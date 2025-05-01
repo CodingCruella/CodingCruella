@@ -1,59 +1,76 @@
-# Hi there 👋  
-I'm **Rukmini Mishra** — a Mechanical Engineering student at Govt. Polytechnic, passionate about engineering, CAD tools, and real-world problem solving.
+# Hi there, I'm Rukmini!
+
+👋 Hello! I'm Rukmini, currently pursuing a Diploma in Mechanical Engineering. I was an intern at Bajaj Steel Industries Ltd, where I gained hands-on experience in design engineering. Additionally, I'm passionate about web development and have a growing interest in Linux.
+
+🌱 Currently Learning: Linux, Generative AI  
+💬 Let's Chat About: According to you, Design, Engineering, Web Development, Generative AI  
+📫 Get in touch: You can reach me via email at rukminimishra2008@gmail.com  
 
 ---
 
-## 👩‍💻 Introduction  
-Welcome to my GitHub! I'm currently exploring the world of mechanical systems, CAD modeling, and engineering simulations. I love building and sharing 3D models, especially using SolidWorks and AutoCAD.
+## ⚙️ Skills
+
+### CAD  
+Well-versed in the intricacies of 3D modeling through **SOLIDWORKS** and **ANSYS Workbench**.
+
+### Web Development  
+Familiar with frontend development technologies such as **HTML**, **CSS**, and **JavaScript**.
+
+### Others  
+Open to learning new technologies and tools that support design and development workflows.
 
 ---
 
-## 🔧 Skills  
-- **Mechanical Engineering:** Diploma student with a strong foundation in engineering principles.  
-- **CAD Tools:** Proficient in SolidWorks, AutoCAD, and Autodesk Inventor.  
-- **Simulation:** Intermediate-level experience with simulation and meshing (Ansys).  
-- **Modeling Projects:** Created detailed models including a pneumatic sheet cutter, flange, dishwasher, and disc brake rotor.
+## 🌐 Web Presence
 
----
-
-## 🌐 Web Presence  
 - [LinkedIn](https://www.linkedin.com/in/rukmini2008)  
-[GrabCAD](https://grabcad.com/rukmini.mishra-1)
-- [Instagram](https://instagram.com/rukminimishra90)
+- [GrabCAD](https://grabcad.com/rukmini.mishra-1)  
+- [Instagram](https://www.instagram.com/rukminimishra90)
 
 ---
 
-## 🚀 Experience & Projects  
-### Internship at Bajaj Steel Industries Ltd.  
-- Worked on Autodesk Inventor for parametric modeling.  
-- Applied engineering knowledge to assist in ongoing industrial design tasks.
+## 💼 Experience
+
+**Intern** — *Bajaj Steel Industries Limited*  
+- Worked in the **Design Department**, contributing to CAD modeling tasks.  
+- Gained hands-on experience in **Autodesk Inventor** for parametric design.  
+- Applied **FEA** techniques and worked with **CAE tools** such as ANSYS Workbench.  
+- Developed **soft skills** like teamwork, communication, and time management while working in an industrial environment.
+
+---
+
+## 🛠️ Projects
 
 ### Pneumatic Sheet Cutter  
-- Designed and simulated a pneumatic sheet cutter in SolidWorks.  
-- Conducted stress analysis to evaluate performance and safety.  
+Designed a **pneumatic-powered sheet cutting machine** using SolidWorks. Simulated its working and analyzed its performance in ANSYS Workbench.
 
-### Additional Projects  
-- Flange, Disc Brake Rotor, Differential, Dishwasher (All modeled in SolidWorks).  
-- Uploaded on GrabCAD for community sharing and feedback.
-
----
-
-## 📚 Education  
-**Diploma in Mechanical Engineering**  
-Govt. Polytechnic College
+### Other Projects  
+Contributed significantly to a multitude of projects showcased on GrabCAD.  
+Check them out here: [My GrabCAD Projects](https://grabcad.com/rukmini.mishra-1)
 
 ---
 
-## 🏆 Certifications  
-- **TCS Digital Learning Program**  
-- **Tata ESG Virtual Experience Program**  
+## 🎓 Education
+
+- **Diploma in Mechanical Engineering**  
+Govt. Polytechnic College, Nagpur
 
 ---
 
-## 📬 Contact  
-- **Email:** rukminimishra2008@gmail.com  
-- **Location:** Nagpur, Maharashtra, India  
+## 📜 Certifications
+
+- TCS Digital Learning Program  
+- Tata Consultancy ESG Virtual Experience  
+- SolidWorks & Simulation-based modeling (self-led)
 
 ---
 
-Thanks for visiting! Let's connect and build something amazing!
+## 📞 Contact
+
+- **Phone**: +91-XXXXXXXXXX  
+- **Email**: rukminimishra2008@gmail.com
+
+---
+
+**Feel free to explore my diverse projects and let's connect for exciting opportunities and collaborations!**
+
