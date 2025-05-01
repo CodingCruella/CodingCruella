@@ -1,6 +1,7 @@
 # Hi there, I'm Rukmini!
 
-👋 Hello! I'm Rukmini, currently pursuing a Diploma in Mechanical Engineering. I was an intern at Bajaj Steel Industries Ltd, where I gained hands-on experience in design engineering. Additionally, I'm passionate about web development and have a growing interest in Linux.
+👋 Hello! I'm Rukmini, currently pursuing a Diploma in Mechanical Engineering. I’m an enthusiastic learner who loves combining creativity with technology. My journey in mechanical design began with CAD tools, and over time, I’ve also grown passionate about web development and emerging tech like Linux and Generative AI.
+🚀 I'm driven by curiosity and the desire to bring ideas to life — whether it's a mechanical assembly or a clean webpage. I'm always looking for new challenges, collaborations, and ways to grow.
 
 🌱 Currently Learning: Linux, Generative AI  
 💬 Let's Chat About: According to you, Design, Engineering, Web Development, Generative AI  
@@ -10,14 +11,19 @@
 
 ## ⚙️ Skills
 
-### CAD  
-Well-versed in the intricacies of 3D modeling through **SOLIDWORKS** and **ANSYS Workbench**.
+### 🔧 CAD
+- Well-versed in 3D modeling through **SOLIDWORKS** and **ANSYS Workbench**
+- Knowledge of simulation, drafting, and FEA fundamentals
+- Familiar with **Autodesk Inventor** for parametric modeling
 
-### Web Development  
-Familiar with frontend development technologies such as **HTML**, **CSS**, and **JavaScript**.
+### 💻 Web Development
+- Proficient in **HTML**, **CSS**, and **JavaScript**
+- Passionate about responsive design and clean UI layouts
 
-### Others  
-Open to learning new technologies and tools that support design and development workflows.
+### 🛠️ Other Technical & Soft Skills
+- Basic Linux navigation and shell usage
+- Strong communication and teamwork abilities
+- Adaptable and always eager to learn new tools
 
 ---
 
@@ -32,10 +38,10 @@ Open to learning new technologies and tools that support design and development 
 ## 💼 Experience
 
 **Intern** — *Bajaj Steel Industries Limited*  
-- Worked in the **Design Department**, contributing to CAD modeling tasks.  
-- Gained hands-on experience in **Autodesk Inventor** for parametric design.  
-- Applied **FEA** techniques and worked with **CAE tools** such as ANSYS Workbench.  
-- Developed **soft skills** like teamwork, communication, and time management while working in an industrial environment.
+- Worked in the **Design Department**, contributing to CAD modeling tasks  
+- Gained hands-on experience in **Autodesk Inventor** for parametric design  
+- Applied **FEA** techniques and worked with **CAE tools** such as ANSYS Workbench  
+- Developed **soft skills** like teamwork, communication, and time management  
 
 ---
 
@@ -67,10 +73,9 @@ Govt. Polytechnic College, Nagpur
 
 ## 📞 Contact
 
-- **Phone**: +91-XXXXXXXXXX  
+- **Phone**: +91-7498847142
 - **Email**: rukminimishra2008@gmail.com
 
 ---
 
 **Feel free to explore my diverse projects and let's connect for exciting opportunities and collaborations!**
-
