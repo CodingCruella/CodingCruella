@@ -27,12 +27,12 @@
 
 ---
 
-## 🌐 Web Presence
+# 🌐 Web Presence
 
 - [LinkedIn](https://www.linkedin.com/in/rukmini2008)  
 - [GrabCAD](https://grabcad.com/rukmini.mishra-1)  
-- [Instagram](https://www.instagram.com/rukminimishra90)
-
+- [Instagram](https://www.instagram.com/rukminimishra90)  
+- [Medium](https://medium.com/@rukminimishra2008)
 ---
 
 ## 💼 Experience
